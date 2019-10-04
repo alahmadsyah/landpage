@@ -213,11 +213,11 @@ img {
 
 .primary_btn {
   display: inline-block;
-  background: -webkit-linear-gradient(to right, #e8eb37 0%, #a4ffb0 51%, #60ff68 100%);
-  background: -moz-linear-gradient(to right, #e8eb37 0%, #a4ffb0 51%, #60ff68 100%);
-  background: -ms-linear-gradient(to right, #e8eb37 0%, #a4ffb0 51%, #60ff68 100%);
-  background: -o-linear-gradient(to right, #e8eb37 0%, #a4ffb0 51%, #60ff68 100%);
-  background: linear-gradient(to right, #e8eb37 0%, #a4ffb0 51%, #60ff68 100%);
+  background: -webkit-linear-gradient(to right, #3bffde 0%, #a4ffb0 51%, #43ff91 100%);
+  background: -moz-linear-gradient(to right, #3bffde 0%, #a4ffb0 51%, #43ff91 100%);
+  background: -ms-linear-gradient(to right, #3bffde 0%, #a4ffb0 51%, #43ff91 100%);
+  background: -o-linear-gradient(to right, #3bffde 0%, #a4ffb0 51%, #43ff91 100%);
+  background: linear-gradient(to right, #3bffde 0%, #a4ffb0 51%, #43ff91 100%);
   background-size: 200% auto;
   padding: 0px 35px;
   color: #222222;
@@ -361,11 +361,16 @@ img {
 /*----------------------------------------------------*/
 .header_area {
   position: absolute;
+  border: red;
   width: 100%;
   top: 0;
   left: 0;
   z-index: 9999;
-  background: #2c2172; }
+  background: -webkit-linear-gradient(to right, #803bff 0%, #43db94 100%);
+  background: -moz-linear-gradient(to right, #803bff 0%, #43db94 100%);
+  background: -ms-linear-gradient(to right, #803bff 0%, #43db94 100%);
+  background: -o-linear-gradient(to right, #803bff 0%, #43db94 100%);
+  background: linear-gradient(to right, #803bff 0%, #43db94 100%); }
   .header_area .navbar-brand {
     margin-right: 30px; }
   .header_area .menu_nav {
@@ -461,7 +466,11 @@ img {
     top: -70px;
     left: 0;
     right: 0;
-    background: #663bdf;
+    background: -webkit-linear-gradient(to right, #803bff 0%, #43db94 100%);
+    background: -moz-linear-gradient(to right, #803bff 0%, #43db94 100%);
+    background: -ms-linear-gradient(to right, #803bff 0%, #43db94 100%);
+    background: -o-linear-gradient(to right, #803bff 0%, #43db94 100%);
+    background: linear-gradient(to right, #803bff 0%, #43db94 100%);
     transform: translateY(70px);
     transition: transform 500ms ease, background 500ms ease;
     -webkit-transition: transform 500ms ease, background 500ms ease;
@@ -500,10 +509,10 @@ img {
 .home_banner_area {
   z-index: 1;
   /* background: url(../img/banner/home-banner.jpg) no-repeat center center; */
-  background: -webkit-linear-gradient(to right, #583fe7 0%, #1fc090 100%);
-  background: -moz-linear-gradient(to right, #583fe7 0%, #1fc090 100%);
-  background: -o-linear-gradient(to right, #583fe7 0%, #1fc090 100%);
-  background: linear-gradient(to right, #583fe7 0%, #1fc090 100%);
+  background: -webkit-linear-gradient(to right, #803bff 0%, #1fc090 100%);
+  background: -moz-linear-gradient(to right, #803bff 0%, #1fc090 100%);
+  background: -o-linear-gradient(to right, #803bff 0%, #1fc090 100%);
+  background: linear-gradient(to right, #803bff 0%, #1fc090 100%);
   background-size: cover; }
   .home_banner_area .banner_inner {
     width: 100%; }
@@ -2742,11 +2751,11 @@ h6 {
     width: 89%;
     top: 0;
     left: 0;
-    background: -webkit-linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%);
-    background: -moz-linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%);
-    background: -ms-linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%);
-    background: -o-linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%);
-    background: linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%); }
+    background: -webkit-linear-gradient(to right, #7d2cff 0%, #400974 100%);
+    background: -moz-linear-gradient(to right, #7d2cff 0%, #400974 100%);
+    background: -ms-linear-gradient(to right, #7d2cff 0%, #400974 100%);
+    background: -o-linear-gradient(to right, #7d2cff 0%, #400974 100%);
+    background: linear-gradient(to right, #7d2cff 0%, #400974 100%); }
 
 /* End About Us Area css
 ============================================================================================ */
