@@ -374,15 +374,11 @@ img {
   top: 0;
   left: 0;
   z-index: 9999;
-<<<<<<< Updated upstream
   background: -webkit-linear-gradient(to right, #803bff 0%, #43db94 100%);
   background: -moz-linear-gradient(to right, #803bff 0%, #43db94 100%);
   background: -ms-linear-gradient(to right, #803bff 0%, #43db94 100%);
   background: -o-linear-gradient(to right, #803bff 0%, #43db94 100%);
   background: linear-gradient(to right, #803bff 0%, #43db94 100%); }
-=======
-  background: #7700ff46; }
->>>>>>> Stashed changes
   .header_area .navbar-brand {
     margin-right: 30px; }
   .header_area .menu_nav {
@@ -478,19 +474,11 @@ img {
     top: -70px;
     left: 0;
     right: 0;
-<<<<<<< Updated upstream
     background: -webkit-linear-gradient(to right, #803bff 0%, #43db94 100%);
     background: -moz-linear-gradient(to right, #803bff 0%, #43db94 100%);
     background: -ms-linear-gradient(to right, #803bff 0%, #43db94 100%);
     background: -o-linear-gradient(to right, #803bff 0%, #43db94 100%);
     background: linear-gradient(to right, #803bff 0%, #43db94 100%);
-=======
-    background: -webkit-linear-gradient(to right, #462cdd 0%, #009771 100%);
-    background: -moz-linear-gradient(to right, #462cdd 0%, #009771 100%);
-    background: -ms-linear-gradient(to right, #462cdd 0%, #009771 100%);
-    background: -o-linear-gradient(to right, #462cdd 0%, #009771 100%);
-    background: linear-gradient(to right, #462cdd 0%, #009771 100%);
->>>>>>> Stashed changes
     transform: translateY(70px);
     transition: transform 500ms ease, background 500ms ease;
     -webkit-transition: transform 500ms ease, background 500ms ease;
